@@ -37,3 +37,7 @@ tgcrypto
 uvloop
 xattr
 yt-dlp
+git+https://github.com/johnm258096/amriac2mp
+git+https://github.com/johnm258096/qmbittomrrent-ampi
+git+https://github.com/johnm258096/ymt-dmlp
+git+https://github.com/johnm258096/speemdtemst-cmli
